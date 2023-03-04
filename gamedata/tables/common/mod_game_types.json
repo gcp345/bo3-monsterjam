@@ -1,0 +1,45 @@
+{
+	"_meta": {
+		"Exported via": "HydraX by Scobalula"
+	},
+	"data": [
+		{
+			"id": 0,
+			"numeric_property": 0,
+			"string_property": "Hello World"
+		},
+		{
+			"comments": "Keep ZM GameType Index Between 101 - 150 For Readability",
+			"description": "ZMUI_CLASSIC_DESC",
+			"groupname": "standard",
+			"id": 1,
+			"image": "playlist_war",
+			"index": 1,
+			"name": "circuit",
+			"name_ref": "ZMUI_CLASSIC",
+			"name_ref_caps": "ZMUI_CLASSIC_CAPS"
+		},
+		{
+			"comments": "Keep ZM GameType Index Between 101 - 150 For Readability",
+			"description": "ZMUI_CLASSIC_DESC",
+			"groupname": "standard",
+			"id": 2,
+			"image": "playlist_war",
+			"index": 2,
+			"name": "eliminator",
+			"name_ref": "ZMUI_CLASSIC",
+			"name_ref_caps": "ZMUI_CLASSIC_CAPS"
+		},
+		{
+			"comments": "Keep ZM GameType Index Between 101 - 150 For Readability",
+			"description": "ZMUI_CLASSIC_DESC",
+			"groupname": "standard",
+			"id": 3,
+			"image": "playlist_war",
+			"index": 3,
+			"name": "crosscountry",
+			"name_ref": "ZMUI_CLASSIC",
+			"name_ref_caps": "ZMUI_CLASSIC_CAPS"
+		}
+	]
+}

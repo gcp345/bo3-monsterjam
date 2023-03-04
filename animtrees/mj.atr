@@ -1,0 +1,38 @@
+main
+{
+	crush_cars : client separate
+	{
+		a_crush_car_suv_crush
+	}
+
+	driver : client separate
+	{
+		o_monster_jam_driver_turn_left
+		o_monster_jam_driver_turn_right
+		o_monster_jam_driver_turn_straight
+	}
+
+	suspension : client separate
+	{
+		o_monster_jam_suspension_back_axel_left
+		o_monster_jam_suspension_back_axel_right
+		o_monster_jam_suspension_back_axel_straight
+		o_monster_jam_suspension_back_down
+		o_monster_jam_suspension_back_straight
+		o_monster_jam_suspension_back_up
+		o_monster_jam_suspension_front_axel_left
+		o_monster_jam_suspension_front_axel_right
+		o_monster_jam_suspension_front_axel_straight
+		o_monster_jam_suspension_front_down
+		o_monster_jam_suspension_front_straight
+		o_monster_jam_suspension_front_up
+		o_monster_jam_drivetrain_forward
+		o_monster_jam_drivetrain_neutral
+		o_monster_jam_drivetrain_reverse
+		o_monster_jam_steeringbar_left
+		o_monster_jam_steeringbar_right
+		o_monster_jam_steeringbar_straight
+		o_monster_jam_camera_forward
+		o_monster_jam_camera_reverse
+	}
+}

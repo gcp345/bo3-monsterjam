@@ -1,0 +1,147 @@
+{
+	"_meta": {
+		"Exported via": "HydraX by Scobalula"
+	},
+	"data": [
+		{
+			"name": "gravedigger",
+			"localize": "UI_TRUCK_GRAVEDIGGER",
+			"ui_name_image": "ui_mj_graphics_logo_gravedigger",
+			"ui_truck_image": "ui_mj_graphics_truck_gravedigger",
+			"id": 0
+		},
+		{
+			"name": "monstermutt",
+			"localize": "UI_TRUCK_MONSTERMUTT",
+			"ui_name_image": "ui_mj_graphics_logo_monstermutt",
+			"ui_truck_image": "ui_mj_graphics_truck_monstermutt",
+			"id": 1
+		},
+		{
+			"name": "bountyhunter",
+			"localize": "UI_TRUCK_BOUNTYHUNTER",
+			"ui_name_image": "ui_mj_graphics_logo_bountyhunter",
+			"ui_truck_image": "ui_mj_graphics_truck_bountyhunter",
+			"id": 2
+		},
+		{
+			"name": "bulldozer",
+			"localize": "UI_TRUCK_BULLDOZER",
+			"ui_name_image": "ui_mj_graphics_logo_bulldozer",
+			"ui_truck_image": "ui_mj_graphics_truck_bulldozer",
+			"id": 3
+		},
+		{
+			"name": "bluethunder",
+			"localize": "UI_TRUCK_BLUETHUNDER",
+			"ui_name_image": "ui_mj_graphics_logo_bluethunder",
+			"ui_truck_image": "ui_mj_graphics_truck_bluethunder",
+			"id": 4
+		},
+		{
+			"name": "kingkrunch",
+			"localize": "UI_TRUCK_KINGKRUNCH",
+			"ui_name_image": "ui_mj_graphics_logo_kingkrunch",
+			"ui_truck_image": "ui_mj_graphics_truck_kingkrunch",
+			"id": 5
+		},
+		{
+			"name": "destroyer",
+			"localize": "UI_TRUCK_DESTROYER",
+			"ui_name_image": "ui_mj_graphics_logo_destroyer",
+			"ui_truck_image": "ui_mj_graphics_truck_destroyer",
+			"id": 6
+		},
+		{
+			"name": "blacksmith",
+			"localize": "UI_TRUCK_BLACKSMITH",
+			"ui_name_image": "ui_mj_graphics_logo_blacksmith",
+			"ui_truck_image": "ui_mj_graphics_truck_blacksmith",
+			"id": 7
+		},
+		{
+			"name": "eltoroloco",
+			"localize": "UI_TRUCK_ELTOROLOCO",
+			"ui_name_image": "ui_mj_graphics_logo_eltoroloco",
+			"ui_truck_image": "ui_mj_graphics_truck_eltoroloco",
+			"id": 8
+		},
+		{
+			"name": "suzuki",
+			"localize": "UI_TRUCK_SUZUKI",
+			"ui_name_image": "ui_mj_graphics_logo_suzuki",
+			"ui_truck_image": "ui_mj_graphics_truck_suzuki",
+			"id": 9
+		},
+		{
+			"name": "predator",
+			"localize": "UI_TRUCK_PREDATOR",
+			"ui_name_image": "ui_mj_graphics_logo_predator",
+			"ui_truck_image": "ui_mj_graphics_truck_predator",
+			"id": 10
+		},
+		{
+			"name": "maxd",
+			"localize": "UI_TRUCK_MAXD",
+			"ui_name_image": "ui_mj_graphics_logo_maxd",
+			"ui_truck_image": "ui_mj_graphics_truck_maxd",
+			"id": 11
+		},
+		{
+			"name": "scarletbandit",
+			"localize": "UI_TRUCK_SCARLETBANDIT",
+			"ui_name_image": "ui_mj_graphics_logo_scarletbandit",
+			"ui_truck_image": "ui_mj_graphics_truck_scarletbandit",
+			"id": 12
+		},
+		{
+			"name": "captcurse",
+			"localize": "UI_TRUCK_CAPTCURSE",
+			"ui_name_image": "ui_mj_graphics_logo_captcurse",
+			"ui_truck_image": "ui_mj_graphics_truck_captcurse",
+			"id": 13
+		},
+		{
+			"name": "avenger",
+			"localize": "UI_TRUCK_AVENGER",
+			"ui_name_image": "ui_mj_graphics_logo_avenger",
+			"ui_truck_image": "ui_mj_graphics_truck_avenger",
+			"id": 14
+		},
+		{
+			"name": "pastrana",
+			"localize": "UI_TRUCK_PASTRANA",
+			"ui_name_image": "ui_mj_graphics_logo_pastrana",
+			"ui_truck_image": "ui_mj_graphics_truck_pastrana",
+			"id": 15
+		},
+		{
+			"name": "ironoutlaw",
+			"localize": "UI_TRUCK_IRONOUTLAW",
+			"ui_name_image": "ui_mj_graphics_logo_ironoutlaw",
+			"ui_truck_image": "ui_mj_graphics_truck_ironoutlaw",
+			"id": 16
+		},
+		{
+			"name": "brutus",
+			"localize": "UI_TRUCK_BRUTUS",
+			"ui_name_image": "ui_mj_graphics_logo_brutus",
+			"ui_truck_image": "ui_mj_graphics_truck_brutus",
+			"id": 17
+		},
+		{
+			"name": "muttdalmation",
+			"localize": "UI_TRUCK_MUTTDALMATION",
+			"ui_name_image": "ui_mj_graphics_logo_muttdalmation",
+			"ui_truck_image": "ui_mj_graphics_truck_muttdalmation",
+			"id": 18
+		},
+		{
+			"name": "gravedigger25th",
+			"localize": "UI_TRUCK_GRAVEDIGGER25TH",
+			"ui_name_image": "ui_mj_graphics_logo_gravedigger25th",
+			"ui_truck_image": "ui_mj_graphics_truck_gravedigger25th",
+			"id": 19
+		}
+	]
+}

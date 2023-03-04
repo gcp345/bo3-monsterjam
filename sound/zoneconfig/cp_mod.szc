@@ -1,0 +1,36 @@
+{
+ "Name" : "cp_mod",
+ "GameMode" : "mpl",
+ "IsCommon" : false,
+ "Parent" : "",
+ "Overlay" : "",
+ "IsStandalone" : true,
+ "IsProduction" : false,
+ "IsShipped" : false,
+ "DontDeploy" : false,
+ "NoStreamBank" : false,
+ "MapFile" : "",
+ "MusicFiles" : [ "mus_monsterjam_soundtrack" ],
+ "Standalone" : true,
+ "Builds" : [ "T7" ],
+ "Sources" : [
+{
+ "Type" : "ALIAS",
+ "Name" : "monster_jam_trucks",
+ "Filename" : "monster_jam_trucks.csv",
+ "Specs" : [ ] 
+},
+{
+ "Type" : "ALIAS",
+ "Name" : "monster_jam_misc",
+ "Filename" : "monster_jam_misc.csv",
+ "Specs" : [ ] 
+},
+{
+ "Type" : "ALIAS",
+ "Name" : "monster_jam_commentator",
+ "Filename" : "monster_jam_commentator.csv",
+ "Specs" : [ ] 
+},
+]
+}

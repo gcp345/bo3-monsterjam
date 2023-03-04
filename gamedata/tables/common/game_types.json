@@ -1,0 +1,106 @@
+{
+	"_meta": {
+		"Exported via": "HydraX by Scobalula"
+	},
+	"data": [
+		{
+			"comments": "Keep ZM GameType Index Between 101 - 150 For Readability",
+			"description": "ZMUI_CLASSIC_DESC",
+			"groupname": "standard",
+			"id": 0,
+			"image": "playlist_war",
+			"index": 0,
+			"name": "circuit",
+			"name_ref": "UI_RACETYPE_CIRCUIT",
+			"name_ref_caps": "UI_RACETYPE_CIRCUIT_CAPS",
+			"is_team_based": "NO",
+			"session_mode": "cp",
+			"minPlayers": "1",
+			"maxPlayers": "4"
+		},
+		{
+			"description": "T6_ZMUI_STANDARD_DESC",
+			"groupname": "standard",
+			"id": 1,
+			"image": "playlist_koth",
+			"index": 1,
+			"name": "eliminator",
+			"name_ref": "UI_RACETYPE_ELIMINATOR",
+			"name_ref_caps": "UI_RACETYPE_ELIMINATOR_CAPS",
+			"is_team_based": "NO",
+			"session_mode": "cp",
+			"minPlayers": "1",
+			"maxPlayers": "4"
+		},
+		{
+			"description": "T6_ZMUI_GRIEF_DESC",
+			"groupname": "standard",
+			"id": 2,
+			"image": "playlist_tdm",
+			"index": 2,
+			"name": "head2head",
+			"name_ref": "UI_RACETYPE_HEAD2HEAD",
+			"name_ref_caps": "UI_RACETYPE_HEAD2HEAD_CAPS",
+			"is_team_based": "YES",
+			"session_mode": "cp",
+			"minPlayers": "2",
+			"maxPlayers": "8"
+		},
+		{
+			"description": "T6_ZMUI_CLEANSED_DESC",
+			"groupname": "standard",
+			"id": 3,
+			"image": "playlist_infect",
+			"index": 3,
+			"name": "zcleansed",
+			"name_ref": "T6_ZMUI_CLEANSED",
+			"name_ref_caps": "T6_ZMUI_CLEANSED_CAPS",
+			"is_team_based": "YES",
+			"session_mode": "cp",
+			"minPlayers": "2",
+			"maxPlayers": "4"
+		},
+		{
+			"description": "ZMUI_NML_DESC",
+			"groupname": "standard",
+			"id": 4,
+			"image": "blacktransparent",
+			"index": 4,
+			"name": "crosscountry",
+			"name_ref": "UI_RACETYPE_CROSSCOUNTRY",
+			"name_ref_caps": "UI_RACETYPE_CROSSCOUNTRY_CAPS",
+			"is_team_based": "YES",
+			"session_mode": "cp",
+			"minPlayers": "1",
+			"maxPlayers": "4"
+		},
+		{
+			"description": "T6_ZMUI_GUNGAME_DESC",
+			"groupname": "standard",
+			"id": 5,
+			"image": "playlist_gungame",
+			"index": 5,
+			"name": "gun",
+			"name_ref": "T6_ZMUI_GUNGAME",
+			"name_ref_caps": "T6_ZMUI_GUNGAME_CAPS",
+			"is_team_based": "NO",
+			"session_mode": "cp",
+			"minPlayers": "1",
+			"maxPlayers": "4"
+		},
+		{
+			"description": "T6_ZMUI_SHRP_DESC",
+			"groupname": "standard",
+			"id": 6,
+			"image": "playlist_shrp",
+			"index": 6,
+			"name": "shrp",
+			"name_ref": "T6_ZMUI_SHRP",
+			"name_ref_caps": "T6_ZMUI_SHRP_CAPS",
+			"is_team_based": "NO",
+			"session_mode": "cp",
+			"minPlayers": "1",
+			"maxPlayers": "4"
+		}
+	]
+}

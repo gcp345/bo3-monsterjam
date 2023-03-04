@@ -1,0 +1,143 @@
+
+REFERENCE					MONSTERJAM_CAPS
+LANG_ENGLISH				"MONSTER JAM"
+
+REFERENCE					TRUCKSELECT
+LANG_ENGLISH				"TRUCK SELECT"
+
+REFERENCE					SELECTING_TRUCK
+LANG_ENGLISH				"Selecting a truck"
+
+REFERENCE					TRUCK_CATEGORY_STOCK
+LANG_ENGLISH				"OFFICIAL"
+
+REFERENCE					TRUCK_CATEGORY_CUSTOM
+LANG_ENGLISH				"CUSTOM"
+
+REFERENCE					LOAD_DEFAULTS
+LANG_ENGLISH				"LOAD DEFAULT OPTIONS"
+
+REFERENCE					IGNORE
+LANG_ENGLISH				"IGNORE"
+
+REFERENCE					HTU_TRUCK_INDEX_1
+LANG_ENGLISH				"This is what you get for cheating..."
+
+REFERENCE					HTU_TRUCK_INDEX_2
+LANG_ENGLISH				"This is what you get for cheating..."
+
+REFERENCE					HTU_TRUCK_INDEX_3
+LANG_ENGLISH				"This is what you get for cheating..."
+
+REFERENCE					HTU_TRUCK_INDEX_4
+LANG_ENGLISH				"This is what you get for cheating..."
+
+REFERENCE					HTU_TRUCK_INDEX_5
+LANG_ENGLISH				"This is what you get for cheating..."
+
+REFERENCE					HTU_TRUCK_INDEX_6
+LANG_ENGLISH				"This is what you get for cheating..."
+
+REFERENCE					HTU_TRUCK_INDEX_7
+LANG_ENGLISH				"To Unlock:\nEarn 25000 Monster Points"
+
+REFERENCE					HTU_TRUCK_INDEX_8
+LANG_ENGLISH				"To Unlock:\nEarn 75000 Monster Points"
+
+REFERENCE					HTU_TRUCK_INDEX_9
+LANG_ENGLISH				"To Unlock:\nEarn 150000 Monster Points"
+
+REFERENCE					HTU_TRUCK_INDEX_10
+LANG_ENGLISH				"To Unlock:\nEarn 225000 Monster Points"
+
+REFERENCE					HTU_TRUCK_INDEX_11
+LANG_ENGLISH				"To Unlock:\nEarn 375000 Monster Points"
+
+REFERENCE					HTU_TRUCK_INDEX_12
+LANG_ENGLISH				"To Unlock:\nEarn 495000 Monster Points"
+
+REFERENCE					HTU_TRUCK_INDEX_13
+LANG_ENGLISH				"To Unlock:\nEarn 675000 Monster Points"
+
+REFERENCE					HTU_TRUCK_INDEX_14
+LANG_ENGLISH				"To Unlock:\nEarn 855000 Monster Points"
+
+REFERENCE					HTU_TRUCK_INDEX_15
+LANG_ENGLISH				"To Unlock:\nEarn 1080000 Monster Points"
+
+REFERENCE					HTU_TRUCK_INDEX_16
+LANG_ENGLISH				"You can't unlock this truck right now."
+
+REFERENCE					HTU_TRUCK_INDEX_17
+LANG_ENGLISH				"You can't unlock this truck right now."
+
+REFERENCE					HTU_TRUCK_INDEX_18
+LANG_ENGLISH				"You can't unlock this truck right now."
+
+REFERENCE					HTU_TRUCK_INDEX_19
+LANG_ENGLISH				"You can't unlock this truck right now."
+
+REFERENCE					HTU_TRUCK_INDEX_20
+LANG_ENGLISH				"To Unlock:\nWin 75 races"
+
+REFERENCE					HTU_TRUCK_INDEX_21
+LANG_ENGLISH				"To Unlock:\nCompete in 15 races"
+
+REFERENCE					HTU_TRUCK_INDEX_22
+LANG_ENGLISH				"To Unlock:\nCompete in 35 races"
+
+REFERENCE					HTU_TRUCK_INDEX_23
+LANG_ENGLISH				"You can't unlock this truck right now."
+
+REFERENCE					HTU_TRUCK_INDEX_24
+LANG_ENGLISH				"To Unlock:\nLead every lap in a Eliminator race"
+
+REFERENCE					HTU_TRUCK_INDEX_25
+LANG_ENGLISH				"To Unlock:\nPerform a double mid-air combo in Urban Assault mode"
+
+REFERENCE					HTU_TRUCK_INDEX_26
+LANG_ENGLISH				"You can't unlock this truck right now."
+
+REFERENCE					HTU_TRUCK_INDEX_27
+LANG_ENGLISH				"You can't unlock this truck right now."
+
+REFERENCE					HTU_TRUCK_INDEX_28
+LANG_ENGLISH				"You can't unlock this truck right now."
+
+REFERENCE					HTU_TRUCK_INDEX_29
+LANG_ENGLISH				"You can't unlock this truck right now."
+
+REFERENCE					HTU_TRUCK_INDEX_30
+LANG_ENGLISH				"You can't unlock this truck right now."
+
+REFERENCE					HTU_TRUCK_INDEX_31
+LANG_ENGLISH				"To Unlock:\nWin 100 races"
+							
+REFERENCE					STATS_51
+LANG_ENGLISH				"Monster Points: 			^2&&1^7"
+
+REFERENCE					STATS_52
+LANG_ENGLISH				"Objects Destroyed: 		^2&&1^7"
+
+REFERENCE					STATS_53
+LANG_ENGLISH				"Hightest Scoring Stunt: 	^2&&1^7"
+
+REFERENCE					STATS_54
+LANG_ENGLISH				"Hightest Combo: 			^2&&1^7"
+
+REFERENCE					STATS_55
+LANG_ENGLISH				"Races Completed: 			^2&&1^7"
+
+REFERENCE					STATS_56
+LANG_ENGLISH				"Races Won: 				^2&&1^7"
+
+REFERENCE					STATS_57
+LANG_ENGLISH				"Distance Driven In Miles: 	^2&&1^7"
+
+REFERENCE					STATS_58
+LANG_ENGLISH				"Monster Spectacles: 		^2&&1^7"
+
+REFERENCE					MONSTER_SPECTACLE
+LANG_ENGLISH				"MONSTER SPECTACLE"
+
+ENDMARKER

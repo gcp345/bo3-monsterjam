@@ -1,0 +1,29 @@
+{
+ "Name" : "core_mod",
+ "GameMode" : "mpl",
+ "IsCommon" : false,
+ "Parent" : "",
+ "Overlay" : "",
+ "IsStandalone" : true,
+ "IsProduction" : false,
+ "IsShipped" : false,
+ "DontDeploy" : false,
+ "NoStreamBank" : false,
+ "MapFile" : "",
+ "Standalone" : true,
+ "Builds" : [ "T7" ],
+ "Sources" : [
+{
+ "Type" : "ALIAS",
+ "Name" : "monster_jam_music",
+ "Filename" : "monster_jam_music.csv",
+ "Specs" : [ ] 
+},
+{
+ "Type" : "ALIAS",
+ "Name" : "monster_jam_frontend",
+ "Filename" : "monster_jam_frontend.csv",
+ "Specs" : [ ] 
+},
+]
+}
